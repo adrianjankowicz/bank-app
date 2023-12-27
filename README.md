@@ -24,7 +24,7 @@ JBank to nowoczesna aplikacja bankowa, zapewniająca szeroki zakres funkcji bank
 - Android Studio / Xcode (dla emulatorów)
 
 ### Kroki Instalacji
-1. Sklonuj repozytorium: `git clone [URL_REPOZYTORIUM]`
+1. Sklonuj repozytorium: `git clone https://github.com/adrianjankowicz/bank-app.git`
 2. Przejdź do katalogu projektu: `cd JBank`
 3. W folderze firebase utwórz plik konfiguracyjny `config.js` z danymi uwierzytelniającymi połączenie z bazą danych
 4. Zainstaluj zależności: `npm install` lub `yarn install`
