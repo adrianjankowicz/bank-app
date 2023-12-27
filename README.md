@@ -31,4 +31,13 @@ JBank to nowoczesna aplikacja bankowa, zapewniająca szeroki zakres funkcji bank
 5. Uruchom aplikację:
    - Dla Android: `react-native run-android`
    - Dla iOS: `react-native run-ios`
-  
+
+![Start Screen(preview/IMG1.PNG)
+![Main Screen(preview/IMG3.PNG)
+![Help Screen(preview/IMG4.PNG)
+![UserInfo Screen(preview/IMG5.PNG)
+![Update Info (preview/IMG6.PNG)
+![Succes Payment Screen(preview/IMG2.PNG)
+
+
+
